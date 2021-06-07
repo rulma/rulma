@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mateo Rul
 - 👀 I’m interested in data analytics and python
-- 🌱 I’m currently learning Python (Pandas, Pygame, Networkx), VBA, SQL
+- 🌱 I’m currently learning Python (Pandas, Numpy, Matplotlib, Pygame), VBA, SQL
 - 📫 How to reach me mateoarul@gmail.com
